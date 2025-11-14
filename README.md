@@ -151,5 +151,4 @@ fetch("https://your-proxy-url/generate", {
 Created by **Giridharan**
 For IBM Cloud + AI project learning.
 
-✅ Badges (stars, forks, IBM Cloud, Watsonx)
-Just tell me!
+
