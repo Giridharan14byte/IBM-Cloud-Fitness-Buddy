@@ -42,6 +42,3 @@ keep your ibm cloud api key private. never expose it publicly. use ibm cloud fun
 
 ## 🙌 acknowledgments
 thanks to ibm cloud and watson machine learning for enabling cloud-based ai development.
-
-
-Just tell me!
